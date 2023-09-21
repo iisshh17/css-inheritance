@@ -1,0 +1,20 @@
+/* Properties which are inherited by the child element*/
+body{
+  color:blue;
+  font-size:large;
+  font-family:verdana;
+  font-weight:200;
+  text-align:center;
+}
+
+
+/* Properties which are not inherited by the child element */
+body{
+  margin-top:7cm;
+  padding:4px;
+}
+
+button{
+  background-color: aqua;
+  border: 10px solid black;
+}
